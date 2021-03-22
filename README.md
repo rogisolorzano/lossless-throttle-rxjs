@@ -31,3 +31,7 @@ source.subscribe(num => console.log(num));
 ```
 
 See [rxjs-lossless-throttle-example](https://github.com/rogisolorzano/rxjs-lossless-throttle-example) for a working example.
+
+## Roadmap
+- Tests
+- Improving amortized time complexity
