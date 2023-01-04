@@ -31,4 +31,4 @@ const source = interval(500).pipe(
 source.subscribe(num => console.log(num));
 ```
 
-See [rxjs-lossless-throttle-example](https://github.com/rogisolorzano/rxjs-lossless-throttle-example) for a working example.
+See [rxjs-lossless-throttle-example](https://github.com/rogisolorzano/lossless-throttle-rxjs-example) for a working example.
